@@ -37,3 +37,5 @@
 :email: natka-31@mail.ru  
 :telephone: +79612072195  
 <img src="images/telegram1.svg" width="20" height="20" alt='typescript'/> @MaxiNata
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NatalyMaxi&theme=react&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
