@@ -35,7 +35,7 @@
 
 :checkered_flag: Я открыта к предложениям на позицию frontend-разработчика, где могу внести свой вклад и развиваться вместе с компанией. Если у вас есть вакансия, которая соответствует моим навыкам и опыту, буду рад сотрудничеству.
 
-#### :globe_with_meridians: Контакты:
+#### :globe_with_meridians: **Контакты**:
 :email: natka-31@mail.ru  
 :telephone: +79612072195  
 <img src="images/telegram1.svg" width="20" height="20" alt='typescript'/> @MaxiNata
