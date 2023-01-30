@@ -9,6 +9,8 @@
 
 <img src="images/typescript.svg" width="30" height="30" alt='typescript'/> <img src="images/redux.svg" width="30" height="30" alt='redux'/> <img src="images/sass.svg" width="30" height="30" alt='sass'/>  
 
+[![Codewars](https://www.codewars.com/users/NataliMaxi/badges/large)](https://www.codewars.com/users/NataliMaxi/badges/large)
+
 <h3 align="center"> <img src="images/смайлик.jpg" width="40" height="40" alt='typescript'/> Не много обо мне:</h3>
 
 :computer: **Профессиональная деятельность:**
@@ -38,4 +40,5 @@
 :telephone: +79612072195  
 <img src="images/telegram1.svg" width="20" height="20" alt='typescript'/> @MaxiNata
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NatalyMaxi&theme=react&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=NatalyMaxi&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyMaxi&layout=compact" height="140px"/>  
+[![GitHub Streak](https://streak-stats.demolab.com?user=NatalyMaxi&theme=react&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)  
