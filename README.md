@@ -1,5 +1,5 @@
 <h1 align="center"><img src="images/привет-min.gif" height="30px"></h1>
-<h2 align="center">Меня зовут Наталья. Я начинающий Front-end разработчик <img src="images/кот-min.gif" width="40"><p align="center"><img src="/images/девушки за компом-min.gif" width="200" height="200"/></p></h2>
+<h2 align="center">Меня зовут Наталья. Я frontend разработчик <img src="images/кот-min.gif" width="40"><p align="center"><img src="/images/девушки за компом-min.gif" width="200" height="200"/></p></h2>
 
 ### Основной стек технологий:
 
